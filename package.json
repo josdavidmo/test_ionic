@@ -1,0 +1,23 @@
+{
+  "name": "ionic_test",
+  "version": "1.0.0",
+  "description": "proyecto de prueba para aprender ionic",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josdavidmo/test_ionic.git"
+  },
+  "keywords": [
+    "ionic",
+    "test"
+  ],
+  "author": "José David Moreno Posada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josdavidmo/test_ionic/issues"
+  },
+  "homepage": "https://github.com/josdavidmo/test_ionic#readme"
+}
